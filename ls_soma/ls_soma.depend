@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457306229 source:c:\users\nanotech corporation\desktop\ls++\ls_soma\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

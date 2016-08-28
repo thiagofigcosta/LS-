@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456407417 source:c:\users\nanotech corporation\desktop\ls++\ls_terminal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
